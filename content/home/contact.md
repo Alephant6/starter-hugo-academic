@@ -18,7 +18,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: shengzhouqiang@163.com
-  phone: 15261651023
   address:
     street: No.219 Ningliu Road
     city: Nanjing
