@@ -14,7 +14,7 @@ organizations:
   -  url: https://www.nuist.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Fourier analysis, Wigner Distribution, Nonlinear Fiber Optics.
 
 # Interests to show in About widget
 interests:
@@ -26,8 +26,8 @@ interests:
 education:
   courses:
     - course: BSc in Information and Computational Science(Embedded)
-    - institution: Nanjing University of Information Science & Technology
-    - year: 2019
+      institution: Nanjing University of Information Science & Technology
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
