@@ -18,7 +18,7 @@ tags: []
 categories: []
 date: '2021-12-01'
 lastmod: 2022-06-23T17:15:37+08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -27,7 +27,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
