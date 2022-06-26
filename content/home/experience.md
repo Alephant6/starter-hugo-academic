@@ -25,7 +25,7 @@ experience:
   - title: VP Social Practice
     company: Student Union
     company_url: ''
-    company_logo: student
+    company_logo: students
     location: Nanjing
     date_start: '2019-10-01'
     date_end: '2021-10-01'
