@@ -34,13 +34,13 @@ item:
   - certificate_url: https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206262147266.png
     date_end: ''
     date_start: '2020-11-19'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    description: 
     organization: Nanjing University of Information Science & Technology
     organization_url: https://www.nuist.edu.cn/main.htm
     title: First-Class Scholarship of NUIST
     url: ''
   - certificate_url: https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206262149643.pdf
-    date_end: '2020-12-21'
+    date_end: ''
     date_start: '2021-05-01'
     description: ''
     organization: China Satellite Navigation Conference
