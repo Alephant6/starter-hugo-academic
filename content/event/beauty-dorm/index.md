@@ -49,15 +49,8 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "beauty-dorm"` references `content/slides/beauty-dorm.pdf`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: beauty-dorm.pdf
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - example
 ---
 
 {{% callout note %}}

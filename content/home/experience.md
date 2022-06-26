@@ -58,7 +58,7 @@ experience:
         * Artificial Intellengence
         * Information Processing Technology
         * Blockchain Technology
-  - title: Enterprise Training Students
+  - title: Enterprise Training Student
     company: Neusoft Corporation
     company_url: 'hhttps://www.neusoft.com/cn/'
     company_logo: Neusoft_logo
