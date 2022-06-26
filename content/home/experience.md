@@ -44,7 +44,20 @@ experience:
     date_start: '2019-10-01'
     date_end: ''
     description: Daily training and participating in competitions with other schools.
+  - title: [Visiting Student](https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206262209027.png) to Artificial Intelligence and Information Technology
+    company: Macau University of Science and Technology
+    company_url: 'https://www.must.edu.mo/'
+    company_logo: Macau_University_of_Science_and_Technology_logo
+    location: Macau
+    date_start: '2022-01-17'
+    date_end: '2022-02-13'
+    description: |2-
+    [Courses](https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206262207967.png) include:
 
+        * Application of Big Data
+        * Artificial Intellengence
+        * Information Processing Technology
+        * Blockchain Technology
 design:
   columns: '2'
 ---
