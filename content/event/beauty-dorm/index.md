@@ -49,7 +49,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "beauty-dorm"` references `content/slides/beauty-dorm.pdf`.
 #   Otherwise, set `slides = ""`.
-slides: beauty-dorm.pdf
+slides: "content/slides/beauty-dorm.pdf"
 
 ---
 
