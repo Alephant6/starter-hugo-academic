@@ -52,7 +52,7 @@ experience:
     date_start: '2022-01-17'
     date_end: '2022-02-13'
     description: |2-
-    [Courses](https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206262207967.png) include:
+    Courses include:
 
         * Application of Big Data
         * Artificial Intellengence
@@ -66,7 +66,7 @@ experience:
     date_start: '2020-06-28'
     date_end: ''
     description: |2-
-    [Courses](https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206262207967.png) include:
+    Courses include:
         
         * Big Data Industry Development
         * Python
