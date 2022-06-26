@@ -47,13 +47,11 @@ url_video: ''
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "beauty-dorm"` references `content/slides/beauty-dorm.pdf`.
+#   E.g. `slides = "beauty-dorm"` references `content/slides/beauty-dorm.md`.
 #   Otherwise, set `slides = ""`.
-slides: "content/slides/beauty-dorm.pdf"
+slides: 
 
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/obeauty-dorm.pdf" "newtab" >}}Slides{{< /staticref >}}
