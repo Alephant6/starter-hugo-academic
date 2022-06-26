@@ -21,7 +21,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**The second brain**](https://camo.githubusercontent.com/8efd634630451e3fb36fa4132d43b82e84af4ffdda038efda57a544f4e76f8b9/68747470733a2f2f73322e6c6f6c692e6e65742f323032322f30332f32352f774450614c78543332555376724a742e706e67)'
+  caption: 'Image credit: [**A second brain**](https://obsidian.md/images/screenshot.png)'
   focal_point: ''
   placement: 2
   preview_only: false
