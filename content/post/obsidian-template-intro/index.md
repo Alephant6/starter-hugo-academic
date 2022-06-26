@@ -28,7 +28,6 @@ image:
 
 authors:
   - admin
-  - 强盛周(Olifant)
 
 tags:
   - Note
