@@ -21,8 +21,9 @@ marketing:
     description: 'All about Olifant'
     twitter: 'alephant66'
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
+    google_analytics: 'Olifant'
+    baidu_tongji: 'Olifant'
+    microsoft_clarity: 'Olifant'
   verification:
     google: ''
     baidu: ''
