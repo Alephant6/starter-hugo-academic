@@ -54,4 +54,4 @@ slides:
 ---
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/obeauty-dorm.pdf" "newtab" >}}Slides{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/beauty-dorm.pdf" "newtab" >}}Slides{{< /staticref >}}
