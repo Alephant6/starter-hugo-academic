@@ -44,7 +44,7 @@ experience:
     date_start: '2019-10-01'
     date_end: ''
     description: Daily training and participating in competitions with other schools.
-  - title: [Visiting Student](https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206262209027.png) to Artificial Intelligence and Information Technology
+  - title: Visiting Student to Artificial Intelligence and Information Technology
     company: Macau University of Science and Technology
     company_url: 'https://www.must.edu.mo/'
     company_logo: Macau_University_of_Science_and_Technology_logo
@@ -58,6 +58,21 @@ experience:
         * Artificial Intellengence
         * Information Processing Technology
         * Blockchain Technology
+  - title: Enterprise Training Students
+    company: Neusoft Corporation
+    company_url: 'hhttps://www.neusoft.com/cn/'
+    company_logo: Neusoft_logo
+    location: Nanjing
+    date_start: '2020-06-28'
+    date_end: ''
+    description: |2-
+    [Courses](https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206262207967.png) include:
+        
+        * Big Data Industry Development
+        * Python
+        * Apache Spark Application
+        * Database System
+        * Storm Application
 design:
   columns: '2'
 ---
