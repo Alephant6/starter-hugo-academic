@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: DS & Java
+  - description: Data Science & Java
     icon: hadoop
     icon_pack: custom
     name: Hadoop
@@ -28,7 +28,7 @@ feature:
     icon: Matlab_Logo
     icon_pack: custom
     name: MATLAB
-  - description: ML & Python
+  - description: Machine Learning & Python
     icon: pytorch-icon
     icon_pack: custom
     name: Pytorch
