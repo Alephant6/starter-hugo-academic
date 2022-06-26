@@ -27,8 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Machine Learning
+      tag: Machine Learning
+    - name: Big Data
+      tag: Big Data
+    - name: Signal Process
+      tag: Signal Process
     - name: Other
       tag: Demo
 
