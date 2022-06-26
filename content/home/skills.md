@@ -16,26 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 100%
-    icon: git-icon
-    icon_pack: custom
-    name: Git
-  - description: 80%
-    icon: linux-tux
-    icon_pack: custom
-    name: Linux
-  - description: 70%
-    icon: Pytorch_logo_icon
-    icon_pack: custom
-    name: Pytorch
-  - description: 70%
+  - description: DS & Java
     icon: hadoop
     icon_pack: custom
     name: Hadoop
-  - description: 90%
+  - description: Version Control System
+    icon: git-icon
+    icon_pack: custom
+    name: Git
+  - description: Numeric Computing Environment
     icon: Matlab_Logo
     icon_pack: custom
     name: MATLAB
+  - description: ML & Python
+    icon: pytorch-icon
+    icon_pack: custom
+    name: Pytorch
+  - description: Shell & Command
+    icon: linux-icon
+    icon_pack: custom
+    name: Linux
+  - description: Document Preparation
+    icon: latex
+    icon_pack: custom
+    name: LaTeX
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
