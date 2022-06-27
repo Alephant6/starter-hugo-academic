@@ -1,5 +1,5 @@
 ---
-title: 高考志愿选择
+title: choose the university
 
 event: 分享
 event_url: 
