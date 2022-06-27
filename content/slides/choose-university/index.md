@@ -7,13 +7,13 @@ categories: []
 date: '2022-06-27T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: sky
+  theme: css/reveal_custom.css
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
 
-{{</* slide class="reveal_custom" */>}}
+
 
 ## 志愿填报的三个基本原则
 > 专业，学校，城市
@@ -24,7 +24,7 @@ slides:
 
 ---
 
-{{</* slide class="reveal_custom" */>}}
+
 
 ## 地区
 > 什么样的城市值得去？
@@ -33,7 +33,7 @@ slides:
 
 ### 标准
 
-{{</* slide class="reveal_custom" */>}}
+
 
 1. 人口是否正增长
 2.  第三产业比例
@@ -57,7 +57,7 @@ slides:
 
 ---
 
-{{</* slide class="reveal_custom" */>}}
+
 
 ## 专业优先or学校优先
 - 理工类看专业
@@ -67,7 +67,7 @@ slides:
 
 ---
 
-{{</* slide class="reveal_custom" */>}}
+
 
 ### 专业选择
 - 高分学生避开天坑
@@ -80,7 +80,7 @@ slides:
 
 ---
 
-{{</* slide class="reveal_custom" */>}}
+
 
 ## 查阅网站推荐
 1. 掌上高考：https://www.gaokao.cn/
