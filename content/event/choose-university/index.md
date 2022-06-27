@@ -61,9 +61,9 @@ projects:
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+点击页面上方的**Slides**按钮可以进入幻灯片页面
 {{% /callout %}}
 
-Slides can be added in a few ways:
+{{< icon name="download" pack="fas" >}} 下载我的pdf版本{{< staticref "uploads/olifant_resume.pdf" "newtab" >}}讲稿{{< /staticref >}}
 
 

@@ -13,7 +13,6 @@ theme: night
 highlight_style: dracula
 ---
 
----
 ## 志愿填报的三个基本原则
 > 专业，学校，城市
 ## 目录
@@ -22,7 +21,6 @@ highlight_style: dracula
 - 查阅网站推荐
 
 ---
-
 ## 地区
 > 什么样的城市值得去？
 - 上大学除了学知识，**最重要**的的事情是长见识。
@@ -88,4 +86,4 @@ highlight_style: dracula
 3. [高考填志愿是兴趣爱好重要，还是未来就业发展方向重要?](https://www.zhihu.com/question/331106923/answer/2538818937)[EB/OL].
 4. [志愿填报的三个基本原则：专业、学校、城市](https://www.zhihu.com/market/paid_column/1508468762877992960/section/1510195613710528512?entry=qa)[EB/OL]. [2022-06-27].
 5. [高考志愿填报你需要知道的网站](https://zhuanlan.zhihu.com/p/380817566)[EB/OL]. [2022-06-27].
----
+
