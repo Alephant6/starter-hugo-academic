@@ -6,11 +6,11 @@ tags: [Other]
 categories: []
 date: '2022-06-27T00:00:00Z'
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: dark
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-  #   Light style: github. Dark style: dracula (default).
-  highlight_style: dracula
+# Choose a theme from https://github.com/hakimel/reveal.js#theming
+theme: black
+# Choose a code highlighting style (if highlighting enabled in `params.toml`)
+#   Light style: github. Dark style: dracula (default).
+highlight_style: dracula
 ---
 
 
@@ -33,7 +33,7 @@ slides:
 
 ### 标准
 
-
+{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 1. 人口是否正增长
 2.  第三产业比例
@@ -42,6 +42,7 @@ slides:
 
 ---
 
+{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 | 档次   | 城市                                  |
 | ------ | ------------------------------------- |
@@ -55,7 +56,7 @@ slides:
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
+{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 ## 专业优先or学校优先
 - 理工类看专业
@@ -65,7 +66,7 @@ slides:
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
+{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 ### 专业选择
 - 高分学生避开天坑
@@ -78,7 +79,7 @@ slides:
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
+{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 ## 查阅网站推荐
 1. 掌上高考：https://www.gaokao.cn/
@@ -88,7 +89,7 @@ slides:
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
+{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 ## 谢谢收听！
 
@@ -100,7 +101,7 @@ slides:
 
 ---
 
-{{</* slide class="reveal_custom" */>}}
+{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 ## 参考文献
 1. [专业优先还是学校优先](https://www.zhihu.com/search?type=content&q=%E4%B8%93%E4%B8%9A%E4%BC%98%E5%85%88%E8%BF%98%E6%98%AF%E5%AD%A6%E6%A0%A1%E4%BC%98%E5%85%88) [EB/OL]. [2022-06-27].
