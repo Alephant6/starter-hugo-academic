@@ -7,7 +7,7 @@ categories: []
 date: '2022-06-27T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: css/reveal_custom.css
+  theme: night
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
@@ -42,8 +42,6 @@ slides:
 
 ---
 
-{{</* slide class="reveal_custom" */>}}
-
 
 | 档次   | 城市                                  |
 | ------ | ------------------------------------- |
@@ -67,7 +65,7 @@ slides:
 
 ---
 
-
+{{< slide background-image="/media/boards.jpg" >}}
 
 ### 专业选择
 - 高分学生避开天坑
@@ -80,7 +78,7 @@ slides:
 
 ---
 
-
+{{< slide background-image="/media/boards.jpg" >}}
 
 ## 查阅网站推荐
 1. 掌上高考：https://www.gaokao.cn/
