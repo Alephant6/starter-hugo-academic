@@ -21,6 +21,7 @@ highlight_style: dracula
 - 地区最重要
 - 专业优先or学校优先?
 - 查阅网站推荐
+- 学生会or社团
 
 ---
 
@@ -82,10 +83,26 @@ highlight_style: dracula
 
 ## 查阅网站推荐
 
-1. 掌上高考：https://www.gaokao.cn/
-2. 高考网：http://www.gaokao.com/
-3. 中国教育在线：https://gaokao.eol.cn/
-4. 大学生必备网：https://www.dxsbb.com/
+1. 掌上高考：[https://www.gaokao.cn/](https://www.gaokao.cn/)
+2. 高考网：[http://www.gaokao.com/](https://www.gaokao.com/)
+3. 中国教育在线：[https://gaokao.eol.cn/](https://gaokao.eol.cn/)
+4. 大学生必备网：[https://www.dxsbb.com/](https://www.dxsbb.com/)
+
+---
+
+{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
+
+## 学生会or社团
+
+同时可以参加多个
+
+- 学生会
+  - 学院，学校的工具人
+  - 大一纯工具人，大二负责人
+  - 负责人特别能锻炼人
+- 社团
+  - 培养兴趣爱好
+  - 不要花太多时间
 
 ---
 
@@ -96,7 +113,7 @@ highlight_style: dracula
 强盛周（Olifant Qiang）
 - 专业：信息与计算科学（嵌入式培养）
 - 学校：南京信息工程大学
-- 个人网站：olifantqiang.cn
+- 个人网站：[olifantqiang.cn](https://olifantqiang.cn/)
 - 微信：Not-elephant
 
 ---
