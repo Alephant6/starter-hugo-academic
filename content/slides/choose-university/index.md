@@ -5,7 +5,7 @@ authors: [admin]
 tags: [Other]
 categories: []
 date: '2022-06-27T00:00:00Z'
-slides:
+slides: sky
 # Choose a theme from https://github.com/hakimel/reveal.js#theming
 theme: night
 # Choose a code highlighting style (if highlighting enabled in `params.toml`)
