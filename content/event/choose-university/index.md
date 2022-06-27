@@ -64,6 +64,6 @@ projects:
 点击页面上方的**Slides**按钮可以进入幻灯片页面
 {{% /callout %}}
 
-{{< icon name="download" pack="fas" >}} 下载我的pdf版本{{< staticref "uploads/olifant_resume.pdf" "newtab" >}}讲稿{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} 下载我的pdf版本{{< staticref "uploads/choose-university.pdf" "newtab" >}}讲稿{{< /staticref >}}
 
 
