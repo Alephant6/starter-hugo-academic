@@ -5,12 +5,12 @@ authors: [admin]
 tags: [Other]
 categories: []
 date: '2022-06-27T00:00:00Z'
-slides: sky
-# Choose a theme from https://github.com/hakimel/reveal.js#theming
-theme: night
-# Choose a code highlighting style (if highlighting enabled in `params.toml`)
-#   Light style: github. Dark style: dracula (default).
-highlight_style: dracula
+slides:
+  # Choose a theme from https://github.com/hakimel/reveal.js#theming
+  theme: sky
+  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
+  #   Light style: github. Dark style: dracula (default).
+  highlight_style: dracula
 ---
 
 {{</* slide class="reveal_custom" */>}}
