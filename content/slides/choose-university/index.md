@@ -13,7 +13,7 @@ theme: black
 highlight_style: dracula
 ---
 
-
+{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 ## 志愿填报的三个基本原则
 > 专业，学校，城市
@@ -42,7 +42,9 @@ highlight_style: dracula
 
 ---
 
-{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
+{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272248537.png" >}}
+
+### 举例
 
 | 档次   | 城市                                  |
 | ------ | ------------------------------------- |
@@ -59,6 +61,7 @@ highlight_style: dracula
 {{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 ## 专业优先or学校优先
+
 - 理工类看专业
 - 社会人文学科则是一重地域，二重学校
   - 医学
@@ -69,6 +72,7 @@ highlight_style: dracula
 {{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 ### 专业选择
+
 - 高分学生避开天坑
   - 热门专业：计算机，金融，法学，中文，临床
   - 基础学科：数学，物理
@@ -82,6 +86,7 @@ highlight_style: dracula
 {{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 ## 查阅网站推荐
+
 1. 掌上高考：https://www.gaokao.cn/
 2. 高考网：http://www.gaokao.com/
 3. 中国教育在线：https://gaokao.eol.cn/
@@ -104,6 +109,7 @@ highlight_style: dracula
 {{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 ## 参考文献
+
 1. [专业优先还是学校优先](https://www.zhihu.com/search?type=content&q=%E4%B8%93%E4%B8%9A%E4%BC%98%E5%85%88%E8%BF%98%E6%98%AF%E5%AD%A6%E6%A0%A1%E4%BC%98%E5%85%88) [EB/OL]. [2022-06-27].
 2. [志愿填报技巧：什么样的城市值得去？](https://www.zhihu.com/market/paid_column/1512147784299491328/section/1514655630158032896)[EB/OL]. [2022-06-27].
 3. [高考填志愿是兴趣爱好重要，还是未来就业发展方向重要?](https://www.zhihu.com/question/331106923/answer/2538818937)[EB/OL].
