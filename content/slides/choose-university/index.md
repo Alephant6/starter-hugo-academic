@@ -12,7 +12,7 @@ theme: night
 #   Light style: github. Dark style: dracula (default).
 highlight_style: dracula
 ---
-
+{{</* slide class="reveal_custom" */>}}
 ## 志愿填报的三个基本原则
 > 专业，学校，城市
 ## 目录
@@ -21,19 +21,21 @@ highlight_style: dracula
 - 查阅网站推荐
 
 ---
+{{</* slide class="reveal_custom" */>}}
 ## 地区
 > 什么样的城市值得去？
 - 上大学除了学知识，**最重要**的的事情是长见识。
 - 上大学应该**最先**考虑城市
 
 ### 标准
+{{</* slide class="reveal_custom" */>}}
 1. 人口是否正增长
 2.  第三产业比例
 3. 城市GDP
 4. 上市公司数量
 
 ---
-
+{{</* slide class="reveal_custom" */>}}
 
 | 档次   | 城市                                  |
 | ------ | ------------------------------------- |
@@ -46,7 +48,7 @@ highlight_style: dracula
 |        | 普通省会：石家庄，南昌，哈尔滨，长春  |
 
 ---
-
+{{</* slide class="reveal_custom" */>}}
 ## 专业优先or学校优先
 - 理工类看专业
 - 社会人文学科则是一重地域，二重学校
@@ -54,6 +56,7 @@ highlight_style: dracula
   - 农学
 
 ---
+{{</* slide class="reveal_custom" */>}}
 ### 专业选择
 - 高分学生避开天坑
   - 热门专业：计算机，金融，法学，中文，临床
@@ -64,6 +67,7 @@ highlight_style: dracula
   - 应用专业：医学，师范，会计，经济
 
 ---
+{{</* slide class="reveal_custom" */>}}
 ## 查阅网站推荐
 1. 掌上高考：https://www.gaokao.cn/
 2. 高考网：http://www.gaokao.com/
@@ -71,6 +75,7 @@ highlight_style: dracula
 4. 大学生必备网：https://www.dxsbb.com/
 
 ---
+{{</* slide class="reveal_custom" */>}}
 ## 谢谢收听！
 
 强盛周（Olifant Qiang）
@@ -80,6 +85,7 @@ highlight_style: dracula
 - 微信：Not-elephant
 
 ---
+{{</* slide class="reveal_custom" */>}}
 ## 参考文献
 1. [专业优先还是学校优先](https://www.zhihu.com/search?type=content&q=%E4%B8%93%E4%B8%9A%E4%BC%98%E5%85%88%E8%BF%98%E6%98%AF%E5%AD%A6%E6%A0%A1%E4%BC%98%E5%85%88) [EB/OL]. [2022-06-27].
 2. [志愿填报技巧：什么样的城市值得去？](https://www.zhihu.com/market/paid_column/1512147784299491328/section/1514655630158032896)[EB/OL]. [2022-06-27].
