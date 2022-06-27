@@ -7,7 +7,7 @@ categories: []
 date: '2022-06-27T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: night
+  theme: dark
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
@@ -24,7 +24,7 @@ slides:
 
 ---
 
-
+{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 ## 地区
 > 什么样的城市值得去？
@@ -55,7 +55,7 @@ slides:
 
 ---
 
-
+{{< slide background-image="/media/boards.jpg" >}}
 
 ## 专业优先or学校优先
 - 理工类看专业
