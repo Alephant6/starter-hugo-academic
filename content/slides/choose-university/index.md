@@ -45,10 +45,10 @@ highlight_style: dracula
 {{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.png" >}}
 
 ### 举例
+
 - 第一档：北京，上海，广州，深圳
 - 第二档：天津，西安，成都，南京，青岛
 - 第三档：无锡，南通，哈尔滨，南昌
-
 
 ---
 
