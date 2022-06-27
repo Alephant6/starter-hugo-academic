@@ -27,13 +27,13 @@ highlight_style: dracula
 {{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 ## 地区
+
 > 什么样的城市值得去？
+
 - 上大学除了学知识，**最重要**的的事情是长见识。
 - 上大学应该**最先**考虑城市
 
 ### 标准
-
-{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.jpg" >}}
 
 1. 人口是否正增长
 2.  第三产业比例
