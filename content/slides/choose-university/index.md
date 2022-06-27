@@ -42,9 +42,8 @@ highlight_style: dracula
 
 ---
 
-{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272248537.png" >}}
+{{< slide background-image="https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202206272240874.png" >}}
 
-### 举例
 
 | 档次   | 城市                                  |
 | ------ | ------------------------------------- |
