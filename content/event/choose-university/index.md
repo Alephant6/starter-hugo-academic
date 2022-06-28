@@ -1,7 +1,7 @@
 ---
 title: How to choose the university?
 
-event: 分享
+event: 经验分享
 event_url: 
 
 location: Wuxi
