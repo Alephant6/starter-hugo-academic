@@ -13,7 +13,7 @@ postcode:
 country: China
 
 summary: 高考志愿选择
-abstract: '如何选择专业、学校、城市？学生会or社团？'
+abstract: '如何选择专业、学校、城市？学生会or社团？考研or出国or就业？'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
