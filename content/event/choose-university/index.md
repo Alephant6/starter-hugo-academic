@@ -17,8 +17,8 @@ abstract: '如何选择专业、学校、城市？学生会or社团？'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-28T04:00:00Z'
-date_end: '2022-06-28T05:00:00Z'
+date: '2022-06-28T013:00:00Z'
+date_end: '2022-06-28T14:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
