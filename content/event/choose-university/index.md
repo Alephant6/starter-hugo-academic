@@ -66,11 +66,11 @@ projects:
 ## 视频录制
 主题: Olifant的个人会议室
 
-日期: 2022-06-27 23:35:31
+日期: 2022-06-28 11:55:44
 
-录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=03d3a0f2-098f-4f3f-b593-3da4fde5d086&from=3
+录制文件：[腾讯会议记录](https://meeting.tencent.com/v2/cloud-record/share?id=5dbf3f97-ae10-4167-9bd9-84fdf6ea81a9&from=3)
 
-访问密码：pd3t
+访问密码：h77n
 
 ## pdf文件下载
 {{< icon name="download" pack="fas" >}} 下载我的pdf版本{{< staticref "uploads/choose-university.pdf" "newtab" >}}讲稿{{< /staticref >}}
